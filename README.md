@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=victordivino&color=yellow" alt="Profile views" /> </p>
 
 - 🔥 Sênior Backend Developer
-- 🔭 I’m currently working on [Mobills](https://www.linkedin.com/company/mobills-labs)
+<!-- - 🔭 I’m currently working on [Mobills](https://www.linkedin.com/company/mobills-labs)) -->
 
 <div>
   <a href="https://github.com/victordivino">
