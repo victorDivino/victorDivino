@@ -1,7 +1,7 @@
 <h1 align="left">Hi :wave:, I'm Victor do Amor Divino</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=victordivino&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Sênior Backend .NET Developer
+- 🔥 Senior .NET Developer 
 <!-- - 🔭 I’m currently working on [Mobills](https://www.linkedin.com/company/mobills-labs)) -->
 
 <div>
